@@ -1,0 +1,8 @@
+# 从空集开始，仅允许已检查过的源码和说明文件进入仓库。
+/*
+!/.gitignore
+!/README.md
+!/heic2jpg.py
+!/mov2mp4.sh
+!/verify.py
+!/LICENSE
