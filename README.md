@@ -1,5 +1,7 @@
 # 照片视频格式转换
 
+[中文](README.md) | [English](README.en.md)
+
 把 HEIC/HEIF 照片批量转为 JPG，把 MOV、MP4、M4V 视频转为 H.264 MP4。视频遇到可识别的 HLG/PQ HDR 时会先做 HDR→SDR 色调映射；照片保留原尺寸、ICC 色彩配置和 EXIF。源文件不修改，结果写入另一目录。
 
 ## 环境
